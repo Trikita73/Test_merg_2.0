@@ -2,3 +2,18 @@ body {
 	font-size: 16px;
 }
 
+p {
+	text-align: center;
+	font-size: 24px;
+}
+
+.header {	
+	background-color: #ccc;
+	padding: 5px;
+}
+
+.header h1 {
+	text-align: center;
+	text-transform: uppercase;
+}
+
