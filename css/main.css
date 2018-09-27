@@ -89,3 +89,14 @@ p {
 	background-color: #ffc700;
 	transition: 0.5s ease; 
 }
+
+/*Footer*/
+footer {
+	padding: 10px;
+	background-color: #ccc;
+}
+
+.footer_copy {
+	font-size: 18px;
+	text-transform: uppercase;
+}
